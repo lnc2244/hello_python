@@ -20,6 +20,6 @@ while(play):
             print('恭喜你猜對了！')
             play = False 
     finally:
-        print('你猜了' + str(time) + '次！' )
+        print('你猜了' + str(time) + '次！' )\
 
 
